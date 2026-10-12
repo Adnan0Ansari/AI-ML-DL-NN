@@ -6,4 +6,5 @@ Learning ML from scratch, in public.
 - [x] micrograd code-along (credit: Andrej Karpathy, github.com/karpathy/micrograd)
 - [x] Linear regression in NumPy
 - [x] Logistic regression in NumPy
-- [ ] PyTorch basics
+- [x] PyTorch basics
+clear
