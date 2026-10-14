@@ -7,4 +7,5 @@ Learning ML from scratch, in public.
 - [x] Linear regression in NumPy
 - [x] Logistic regression in NumPy
 - [x] PyTorch basics
+- [x] L2 Regularization
 clear
